@@ -1,0 +1,23 @@
+{
+  "name": "storybook",
+  "version": "1.0.0",
+  "description": "App to share stories",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tharanamayu/Story-Book-Social-Network.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tharanamayu/Story-Book-Social-Network/issues"
+  },
+  "homepage": "https://github.com/Tharanamayu/Story-Book-Social-Network#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.3"
+  }
+}
